@@ -1,0 +1,7 @@
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\bin\Debug\Aula08Listaserepeticao.exe.config
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\bin\Debug\Aula08Listaserepeticao.exe
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\bin\Debug\Aula08Listaserepeticao.pdb
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\obj\Debug\Aula08Listaserepeticao.csproj.AssemblyReference.cache
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\obj\Debug\Aula08Listaserepeticao.csproj.CoreCompileInputs.cache
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\obj\Debug\Aula08Listaserepeticao.exe
+C:\Users\william.dresch\source\repos\Aula08Listaserepeticao\Aula08Listaserepeticao\obj\Debug\Aula08Listaserepeticao.pdb
