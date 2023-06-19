@@ -82,29 +82,47 @@ namespace Aula08Listaserepeticao
         }
 
         void atividade ()
-        {
-            List<string> nome = new List<string>();
+        { List<string> nomes = new List<string>();
             int buscar = 2;
-
-
+           string posicao;
+          
 
             Console.WriteLine("Cadastro de usúarios\n");
             Console.WriteLine("1 - Cadastrar");
             Console.WriteLine("2 - Buscar");
-
+            Console.WriteLine("Digite Uma Opção");
+            Console.ReadLine();
+            
+            Console.WriteLine("Cadastrar um Novo Usuario");
+            nomes.Add(Console.ReadLine);
+            
+            Console.WriteLine("Usuario Cadastrado com Sucesso");
+            
             Console.WriteLine("Digite uma Opção:");
             Console.ReadLine();
 
             if (buscar == 2) ;
             {
                 Console.WriteLine("Digite a Posição que quer buscar: ");
+                Console.ReadLine();
 
+             nomes.Add Console.ReadLine();
 
             }
-
-
-
-        }
+            
+            else () 
+            {
+              Console.WriteLine("A lista está vazia ainda");
+              
+            }
+             Console.WriteLine("Posição da lista :");
+            
+         if (posicao) && (buscar >=2);
+         {
+             Console.WriteLine("Essa Posição não existe");
+             
+         
+         }
 
         void loop ()
         {
